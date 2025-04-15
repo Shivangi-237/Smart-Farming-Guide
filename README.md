@@ -1,5 +1,5 @@
 # Smart-Farming-Guide🌱(Progress)
-Smart-Farming Guide is a digital platform designed to help farmers and gardening enthusiasts with seed identification, plant disease diagnosis, and optimized growth guidance using AI-powered image recognition and chatbot assistance.
+Smart-Farming Guide is a group project – a digital platform designed to help farmers and gardening enthusiasts with seed identification, plant disease diagnosis, and optimized growth guidance using AI-powered image recognition and chatbot assistance.
 
 
 🌾 Why This Project?
@@ -15,7 +15,14 @@ This project provides an AI-driven user-friendly solution to bridge the knowledg
 ✅ Seed Identification – Upload images to identify seeds using AI.
 ✅ Disease Diagnosis – Analyze plant images to detect diseases and get treatment suggestions.
 ✅ Personalized Growth Guidance – Get optimal weather conditions and care instructions.
-✅ Health Monitoring – Track plant growth and receive care reminders.
 ✅ Chatbot Assistance – AI-powered chatbot for farming and gardening queries.
 ✅ Bilingual Support – Available in both Hindi and English.
-✅ Speech-to-Text Functionality – Hands-free interaction for farmers.
+
+
+🧩 Next Step: Model to API Integration
+
+Our core AI models for seed identification and plant disease diagnosis are trained and performing well.
+The final step is:
+
+🔗 API Conversion –
+We are now focusing on converting the trained models into APIs so they can be seamlessly integrated into the Smart-Farming Guide platform. This will enable real-time processing of user-uploaded images through the web interface.
