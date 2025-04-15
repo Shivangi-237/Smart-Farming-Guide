@@ -26,3 +26,7 @@ The final step is:
 
 🔗 API Conversion –
 We are now focusing on converting the trained models into APIs so they can be seamlessly integrated into the Smart-Farming Guide platform. This will enable real-time processing of user-uploaded images through the web interface.
+
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/3a77000c-e207-403b-aa6a-226c8b414235)
