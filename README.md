@@ -30,3 +30,5 @@ We are now focusing on converting the trained models into APIs so they can be se
 
 #OUTPUT
 ![Image](https://github.com/user-attachments/assets/3a77000c-e207-403b-aa6a-226c8b414235)
+
+![Image](https://github.com/user-attachments/assets/d4b1e0a7-f8aa-4950-bbf4-210584ce3f72)
